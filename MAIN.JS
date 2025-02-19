@@ -1,8 +1,8 @@
 
-// Lấy phần tử có ID "password" (là nơi hiển thị mật khẩu)
+// Lấy phần tử có ID password
 const passwordBox = document.getElementById("password");
 // Thiết lập độ dài mong muốn của mật khẩu
-const length = 12; // Sửa lỗi chính tả từ 'lenght' thành 'length'
+const length = 12; 
 // Các ký tự có thể sử dụng trong mật khẩu
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerCase = "abcdefghijklmnopqrstuvwxyz";
